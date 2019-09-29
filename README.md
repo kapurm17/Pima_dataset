@@ -6,6 +6,6 @@ This is a standard machine learning dataset from the UCI Machine Learning reposi
 Best MSE :- Deep Neural Network : 16.58
          :- Logistic : 17
 
-#commit 2 Appled Standard Scaler
+#commit 2 Applied Standard Scaler
 Best MSE :- Deep Neural Network : 15.8 
 
